@@ -12,7 +12,7 @@ This app implements a Broadcast Receiver and copies OTP to your clipboard.
 
 ## How to Use
 
-* Run the app and provide permissio(Android M and above).
+* Run the app and provide permission (Android M and above).
 * App will copy your OTP to the clipboard whenever you will receive it via an SMS.
 
 ## Screenshots
