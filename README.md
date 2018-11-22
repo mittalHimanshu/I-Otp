@@ -14,3 +14,10 @@ This app implements a Broadcast Receiver and copies OTP to your clipboard.
 
 * Run the app and provide permissio(Android M and above).
 * App will copy your OTP to the clipboard whenever you will receive it via an SMS.
+
+## Screenshots
+
+<p align="center">
+<img src="https://mittalhimanshu151.000webhostapp.com/Images/I-Otp/1.jpg" width="280" height="500" hspace="4"/>
+<img src="https://mittalhimanshu151.000webhostapp.com/Images/I-Otp/2.jpg" width="280" height="500" hspace="4"/>
+</p>
