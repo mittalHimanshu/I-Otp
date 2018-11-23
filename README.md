@@ -19,5 +19,5 @@ This app implements a Broadcast Receiver and copies OTP to your clipboard.
 
 <p align="center">
 <img src="https://mittalhimanshu151.000webhostapp.com/Images/I-Otp/1.jpg" width="280" height="500" hspace="4"/>
-<img src="https://mittalhimanshu151.000webhostapp.com/Images/I-Otp/2.jpg" width="280" height="500" hspace="4"/>
+<img src="https://mittalhimanshu151.000webhostapp.com/Images/I-Otp/2a.jpg" width="280" height="500" hspace="4"/>
 </p>
