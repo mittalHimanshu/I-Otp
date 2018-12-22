@@ -21,3 +21,12 @@ This app implements a Broadcast Receiver and copies OTP to your clipboard.
 <img src="https://mittalhimanshu151.000webhostapp.com/Images/I-Otp/1.jpg" width="280" height="500" hspace="4"/>
 <img src="https://mittalhimanshu151.000webhostapp.com/Images/I-Otp/2a.jpg" width="280" height="500" hspace="4"/>
 </p>
+
+---
+
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](https://github.com/mittalHimanshu/I-Otp/blob/master/LICENSE)**
+- Copyright 2018 © <a href="https://github.com/mittalHimanshu" target="_blank">Himanshu Mittal</a>.
